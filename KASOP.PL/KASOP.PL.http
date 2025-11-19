@@ -1,0 +1,6 @@
+@KASOP.PL_HostAddress = http://localhost:5280
+
+GET {{KASOP.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
